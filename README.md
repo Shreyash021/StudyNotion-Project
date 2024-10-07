@@ -38,8 +38,6 @@
 - **Nodemailer**: For sending email notifications (like OTP and password resets).
 
 ## Deployment
-
-- **Front-end**: Hosted on "https://studynotion-frontend.vercel.app/"
 - **Database**: MongoDB Atlas for cloud-based database management.
 - **Media Storage**: Cloudinary for media content (videos, images).
 
